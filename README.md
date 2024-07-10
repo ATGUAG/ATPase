@@ -6,12 +6,11 @@
 
 ## Intro
 
-"andOTP" was a two-factor authentication App for Android 5.1+, which implements Time-based One-time Passwords (TOTP) and HMAC-Based One-Time Passwords (HOTP).
-This project started out as a fork of the great [OTP Authenticator](https://github.com/0xbb/otp-authenticator) app written by [Bruno Bierbaumer](https://github.com/0xbb),
-which has sadly been inactive since 2015. By now almost every aspect of the app has been changed/re-written so the fork status of the Github repository got
-detached upon [user request](https://github.com/andOTP/andOTP/issues/145). But all credit for the original version and for starting this project still goes to Bruno!
-Later on, andOTP also went unmaintained (See [this XDA post](https://forum.xda-developers.com/t/app-4-4-open-source-andotp-open-source-two-factor-authentication-for-android.3636993/post-87021655) for more details.)
-
+"andOTP" was "a two-factor authentication App for Android 5.1+, which implements Time-based One-time Passwords (TOTP) and HMAC-Based One-Time Passwords (HOTP).
+The project started out as a fork of [OTP Authenticator](https://github.com/0xbb/otp-authenticator) app written by [Bruno Bierbaumer](https://github.com/0xbb),
+which has sadly been inactive since 2015. Almost every aspect of the app has been changed/re-written so the fork status of the Github repository got
+detached upon [user request](https://github.com/andOTP/andOTP/issues/145). But all credit for the original version and for starting this project still goes to Bruno!"
+Later on, andOTP also went unmaintained (See [this XDA post](https://forum.xda-developers.com/t/app-4-4-open-source-andotp-open-source-two-factor-authentication-for-android.3636993/post-87021655) for more details.)"
 
 ## Features:
 
@@ -75,14 +74,13 @@ Check out [this](https://github.com/andOTP/andOTP/wiki/Migration) wiki page to l
 
 ## Contribute:
 
- * **Translation**: If you want to help translate andOTP into your language head over to the [Crowdin project](https://crowdin.com/project/andotp).
- * **Bug reports and feature requests**: You can report bugs and request features in the [Issue tracker](https://github.com/andOTP/andOTP/issues) on GitHub.
- * **Requesting thumbnails**: If you are missing a thumbnail you can request it by [opening a thumbnail request](https://github.com/andOTP/andOTP/issues/new/choose).
- * **Discussion and support**: 
+ * **Translation**:
+ * **Bug reports and feature requests**:
+ * **Requesting thumbnails**:
+ * **Discussion and support**:
 
 
 #### Donations:
-
 
 
 ## Screenshots:
