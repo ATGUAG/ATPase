@@ -1,6 +1,6 @@
 #  ATPase -  Android Time-based Password Authenticator/Store
 
-## Fork of Unmaintained andOTP
+## Under Development Fork of Unmaintained andOTP
 
 ![ATPase](./assets/logo.png)
 
@@ -11,6 +11,7 @@ The project started out as a fork of [OTP Authenticator](https://github.com/0xbb
 which has sadly been inactive since 2015. Almost every aspect of the app has been changed/re-written so the fork status of the Github repository got
 detached upon [user request](https://github.com/andOTP/andOTP/issues/145). But all credit for the original version and for starting this project still goes to Bruno!"
 Later on, andOTP also went unmaintained (See [this XDA post](https://forum.xda-developers.com/t/app-4-4-open-source-andotp-open-source-two-factor-authentication-for-android.3636993/post-87021655) for more details.)"
+Although the project is public, it is not published yet!
 
 ## Features:
 
