@@ -1,10 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     tools:ignore="GoogleAppIndexingWarning"
     android:installLocation="auto"
-    package="org.shadowice.flocke.andotp">
+    package="org.ATGUAG.ATPase">
+
+    <uses-sdk
+        android:minSdkVersion="30"
+        android:targetSdkVersion="34" />
+
+    <application
+        android:label="ATPase">
+        
+        <activity
+            android:name=".Activities.MainActivity"
+            android:label="ATPase">
+
 
     <uses-sdk tools:overrideLibrary="com.google.zxing.client.android" /> <!-- Needed to support SDK below 24, see build.gradle -->
 
